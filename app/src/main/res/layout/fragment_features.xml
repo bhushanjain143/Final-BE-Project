@@ -1,0 +1,60 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.technohub.remind.fragment.FeaturesFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:layout_margin="15dp"
+
+            android:layout_height="match_parent"
+
+            android:text=" Google Keep? First, you have to install the app. Let's do that and then walk through the process of creating a location-based reminder." />
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:layout_margin="15dp"
+
+            android:layout_height="match_parent"
+
+            android:text=" Google Keep? First, you have to install the app. Let's do that and then walk through the process of creating a location-based reminder." />
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:layout_margin="15dp"
+
+            android:layout_height="match_parent"
+
+            android:text=" Google Keep? First, you have to install the app. Let's do that and then walk through the process of creating a location-based reminder." />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:layout_margin="15dp"
+
+            android:layout_height="match_parent"
+
+            android:text=" Google Keep? First, you have to install the app. Let's do that and then walk through the process of creating a location-based reminder." />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:layout_margin="15dp"
+
+            android:layout_height="match_parent"
+
+            android:text=" Google Keep? First, you have to install the app. Let's do that and then walk through the process of creating a location-based reminder." />
+
+    </LinearLayout>
+
+</FrameLayout>

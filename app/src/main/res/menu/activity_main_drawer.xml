@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:icon="@drawable/drwr_home"
+            android:title="Home"/>
+        <item android:id="@+id/Activetask"
+            android:icon="@drawable/drwr_active_task"
+            android:title="Active Task"/>
+
+        <item android:id="@+id/NearBy"
+            android:icon="@drawable/drwr_nearby"
+            android:title="NearBy"/>
+        <item android:id="@+id/completed"
+        android:icon="@drawable/drwr_completed"
+        android:title="Completed"/>
+        <item android:id="@+id/favourites"
+            android:icon="@drawable/drwr_favourite"
+            android:title="Favourites"/>
+
+
+        <item android:id="@+id/settings"
+            android:icon="@drawable/drwr_settings"
+            android:title="Settings"/>
+
+        <item android:id="@+id/Features"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Features"/>
+
+    </group>
+
+</menu>
